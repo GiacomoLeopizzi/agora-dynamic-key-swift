@@ -1,0 +1,3 @@
+[submodule "Sources/CAgoraDynamicKey/libAgoraDynamicKey"]
+	path = Sources/CAgoraDynamicKey/libAgoraDynamicKey
+	url = https://github.com/AgoraIO/Tools
