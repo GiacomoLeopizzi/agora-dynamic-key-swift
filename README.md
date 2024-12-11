@@ -1,5 +1,8 @@
 # Agora Dynamic Key Library (Swift)
 
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FGiacomoLeopizzi%2Fagora-dynamic-key-swift%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/GiacomoLeopizzi/agora-dynamic-key-swift)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FGiacomoLeopizzi%2Fagora-dynamic-key-swift%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/GiacomoLeopizzi/agora-dynamic-key-swift)
+
 This library provides tools for generating dynamic keys (tokens) for Agora services, including Real-Time Communication (RTC), Real-Time Messaging (RTM), and Chat. The library is designed for Swift developers and ensures seamless integration with Agora services.
 
 ## Features
