@@ -9,12 +9,12 @@ import CAgoraDynamicKey
 
 extension String {
     
-    var cxxString: std.__1.string {
-        std.__1.string(self)
+    var cxxString: std.string {
+        std.string(self)
     }
 }
 
-extension std.__1.string {
+extension std.string {
     
     var swiftString: String {
         String(self)
